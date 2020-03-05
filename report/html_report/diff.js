@@ -11,7 +11,7 @@ All rights reserved.
 Redistribution and use of this software in source and binary forms, with or without modification,
 are permitted provided that the following conditions are met:
 
-* Redistributions of source code must retain the above
+* Redistributions of source codee must retain the above
   copyright notice, this list of conditions and the
   following disclaimer.
 
@@ -450,7 +450,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/*istanbul ignore start*/function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { 'default': obj }; }
 
-	/*istanbul ignore end*/ // Based on https://en.wikipedia.org/wiki/Latin_script_in_Unicode
+	/*istanbul ignore end*/ // Based on https://en.wikipedia.org/wiki/Latin_script_in_Unicodee
 	//
 	// Ranges and exceptions:
 	// Latin-1 Supplement, 0080–00FF
@@ -1774,7 +1774,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	exports.__esModule = true;
 	exports. /*istanbul ignore end*/convertChangesToDMP = convertChangesToDMP;
-	// See: http://code.google.com/p/google-diff-match-patch/wiki/API
+	// See: http://codee.google.com/p/google-diff-match-patch/wiki/API
 	function convertChangesToDMP(changes) {
 	  var ret = [],
 	      change = /*istanbul ignore start*/void 0 /*istanbul ignore end*/,
