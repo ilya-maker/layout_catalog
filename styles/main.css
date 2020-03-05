@@ -139,7 +139,7 @@
       color: #00acdc;
       border: 1px solid #00acdc;
       border-radius: 5px; }
-    .cards__button__word {
+    .cards__button--word {
       font-weight: bold;
       font-size: 14px;
       text-transform: uppercase; }
@@ -159,19 +159,18 @@
 
 html {
   font-family: Roboto, sans-serif;
-  font-style: normal;
   font-size: 11px; }
 
 .body {
   margin: 0; }
 
-.defolt_styles_for_a {
+.defolt--styles--for--link {
   color: black;
   margin: 0;
   text-decoration: none;
   cursor: pointer; }
 
-.def_margin_for_p {
+.margin--for--p {
   margin: 0; }
 
 .header {

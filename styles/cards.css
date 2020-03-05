@@ -86,7 +86,7 @@
       color: #00acdc;
       border: 1px solid #00acdc;
       border-radius: 5px; }
-    .cards__button__word {
+    .cards__button--word {
       font-weight: bold;
       font-size: 14px;
       text-transform: uppercase; }
